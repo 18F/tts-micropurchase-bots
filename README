@@ -24,6 +24,7 @@ There are a few other bots currently in development
 TTS Micropurchase Bot:
 
 Process MURAL: https://app.mural.co/t/gsa6/m/gsa6/1563393541242/73f95cd76bc3e9d054d0fdbb03cbac4c6ad93d00
+User interview notes: https://docs.google.com/document/d/1ZxmCg-q6U7sb04uSzZTWBIDCRGSeUP6qNIoq2qyiVZY/edit
 
 Form (BETA): https://docs.google.com/forms/d/1hsnLUJeU0dByyLnln_v9vM2NEcL3BV6kRymwyHUEgME
 Sheet (BETA): https://docs.google.com/spreadsheets/d/1dO1qz9TFAWFgGqteRL10Bbq4JSKskXzdwlgAeKtMYj8/edit#gid=2001741130
@@ -32,7 +33,13 @@ Script (BETA): https://script.google.com/a/gsa.gov/d/1pmQUdF6wWuC_p19U5JGg_FE0gC
 TTS Software + Equipment Bot:
 
 Process MURAL: https://app.mural.co/t/gsa6/m/gsa6/1548456646198/ecec2009dbca55ccb195b8ff2f7ed8750bd22fc1
+Email template drafts: https://docs.google.com/document/d/1nCYNQ8pR2SKo70Ktpm-dh7FFECtpKbmIGYpxbXeOrZI/edit?ts=5d0b95db#
 
 Form (BETA): https://docs.google.com/forms/d/1Pk8hVrBrvFN41DKeLqOwWKykCHu3umqH7jFEHBbj-mE/edit?edit_requested=true
 Sheet (BETA): https://docs.google.com/spreadsheets/d/1FpYTjSLWzJrWsb8QtmG6Oakk0cv_iF8O0U4ih686Kr4/edit#gid=1310011018
 Script (BETA): https://script.google.com/a/gsa.gov/d/10PLr4v0pOwlvmFXKhs5YQt3JkRSGpPMe97Eeb8x3HrEQW5rW6Hc3UNo9/edit
+
+---
+
+The bots integrate into an "Action Item Query" which assists with logging the credit card transactions into the Pegasys financial system, like the example here:
+https://docs.google.com/spreadsheets/d/1GfohROMWhc1jU6AIdwTqncoQn4CNk3XbgaGmW1V2aL4/edit?ts=5d1b6c46#gid=0
