@@ -41,5 +41,5 @@ Script (BETA): https://script.google.com/a/gsa.gov/d/10PLr4v0pOwlvmFXKhs5YQt3JkR
 
 ---
 
-The bots integrate into an "Action Item Query" which assists with logging the credit card transactions into the Pegasys financial system, like the example here:
+The bots integrate into an "Action Item Query" which aggregates logs across GSA divisions and assists with logging the credit card transactions into the Pegasys financial system, like the example here:
 https://docs.google.com/spreadsheets/d/1GfohROMWhc1jU6AIdwTqncoQn4CNk3XbgaGmW1V2aL4/edit?ts=5d1b6c46#gid=0
